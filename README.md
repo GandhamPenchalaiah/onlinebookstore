@@ -139,6 +139,6 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
-<ricky is a good boyy>
+<ricky is a good boy but some>
                                                                                                         Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
